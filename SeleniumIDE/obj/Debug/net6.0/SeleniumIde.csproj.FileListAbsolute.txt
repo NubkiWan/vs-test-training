@@ -1,6 +1,5 @@
 C:\Users\Nadia\Desktop\Exercise\2-SeleniumIDE\SeleniumIDE\bin\Debug\net6.0\testhost.dll
 C:\Users\Nadia\Desktop\Exercise\2-SeleniumIDE\SeleniumIDE\bin\Debug\net6.0\testhost.exe
-C:\Users\Nadia\Desktop\Exercise\2-SeleniumIDE\SeleniumIDE\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
 C:\Users\Nadia\Desktop\Exercise\2-SeleniumIDE\SeleniumIDE\bin\Debug\net6.0\selenium-manager\linux\selenium-manager
 C:\Users\Nadia\Desktop\Exercise\2-SeleniumIDE\SeleniumIDE\bin\Debug\net6.0\selenium-manager\macos\selenium-manager
 C:\Users\Nadia\Desktop\Exercise\2-SeleniumIDE\SeleniumIDE\bin\Debug\net6.0\selenium-manager\windows\selenium-manager.exe
@@ -16,13 +15,13 @@ C:\Users\Nadia\Desktop\Exercise\2-SeleniumIDE\SeleniumIDE\bin\Debug\net6.0\Selen
 C:\Users\Nadia\Desktop\Exercise\2-SeleniumIDE\SeleniumIDE\bin\Debug\net6.0\SeleniumIde.pdb
 C:\Users\Nadia\Desktop\Exercise\2-SeleniumIDE\SeleniumIDE\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
 C:\Users\Nadia\Desktop\Exercise\2-SeleniumIDE\SeleniumIDE\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\Nadia\Desktop\Exercise\2-SeleniumIDE\SeleniumIDE\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
 C:\Users\Nadia\Desktop\Exercise\2-SeleniumIDE\SeleniumIDE\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
 C:\Users\Nadia\Desktop\Exercise\2-SeleniumIDE\SeleniumIDE\bin\Debug\net6.0\Microsoft.TestPlatform.CommunicationUtilities.dll
 C:\Users\Nadia\Desktop\Exercise\2-SeleniumIDE\SeleniumIDE\bin\Debug\net6.0\Microsoft.TestPlatform.CrossPlatEngine.dll
 C:\Users\Nadia\Desktop\Exercise\2-SeleniumIDE\SeleniumIDE\bin\Debug\net6.0\Microsoft.TestPlatform.Utilities.dll
 C:\Users\Nadia\Desktop\Exercise\2-SeleniumIDE\SeleniumIDE\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Common.dll
 C:\Users\Nadia\Desktop\Exercise\2-SeleniumIDE\SeleniumIDE\bin\Debug\net6.0\Newtonsoft.Json.dll
-C:\Users\Nadia\Desktop\Exercise\2-SeleniumIDE\SeleniumIDE\bin\Debug\net6.0\NuGet.Frameworks.dll
 C:\Users\Nadia\Desktop\Exercise\2-SeleniumIDE\SeleniumIDE\bin\Debug\net6.0\nunit.framework.dll
 C:\Users\Nadia\Desktop\Exercise\2-SeleniumIDE\SeleniumIDE\bin\Debug\net6.0\nunit.framework.legacy.dll
 C:\Users\Nadia\Desktop\Exercise\2-SeleniumIDE\SeleniumIDE\bin\Debug\net6.0\WebDriver.dll
