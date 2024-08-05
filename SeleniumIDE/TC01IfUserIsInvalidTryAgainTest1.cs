@@ -13,7 +13,7 @@ public class TC01IfUserIsInvalidTryAgainTest
     public void SetUp()
     {
         ChromeOptions options = new ChromeOptions();
-        options.AddArguments("--disable-search-engine-choice-screen");
+        //options.AddArguments("disable-search-engine-choice-screen");
         options.AddArguments("headless");
         options.AddArguments("no-sandbox");
         options.AddArguments("disable-dev-shm-usage");
