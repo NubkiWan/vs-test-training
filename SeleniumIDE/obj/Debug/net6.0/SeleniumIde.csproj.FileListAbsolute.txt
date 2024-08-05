@@ -24,6 +24,7 @@ C:\Users\Nadia\Desktop\Exercise\2-SeleniumIDE\SeleniumIDE\bin\Debug\net6.0\Micro
 C:\Users\Nadia\Desktop\Exercise\2-SeleniumIDE\SeleniumIDE\bin\Debug\net6.0\Newtonsoft.Json.dll
 C:\Users\Nadia\Desktop\Exercise\2-SeleniumIDE\SeleniumIDE\bin\Debug\net6.0\NuGet.Frameworks.dll
 C:\Users\Nadia\Desktop\Exercise\2-SeleniumIDE\SeleniumIDE\bin\Debug\net6.0\nunit.framework.dll
+C:\Users\Nadia\Desktop\Exercise\2-SeleniumIDE\SeleniumIDE\bin\Debug\net6.0\nunit.framework.legacy.dll
 C:\Users\Nadia\Desktop\Exercise\2-SeleniumIDE\SeleniumIDE\bin\Debug\net6.0\WebDriver.dll
 C:\Users\Nadia\Desktop\Exercise\2-SeleniumIDE\SeleniumIDE\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
 C:\Users\Nadia\Desktop\Exercise\2-SeleniumIDE\SeleniumIDE\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
@@ -95,6 +96,7 @@ C:\Users\Nadia\Desktop\Exercise\2-SeleniumIDE\SeleniumIDE\obj\Debug\net6.0\Selen
 C:\Users\Nadia\Desktop\Exercise\2-SeleniumIDE\SeleniumIDE\obj\Debug\net6.0\SeleniumIde.AssemblyInfoInputs.cache
 C:\Users\Nadia\Desktop\Exercise\2-SeleniumIDE\SeleniumIDE\obj\Debug\net6.0\SeleniumIde.AssemblyInfo.cs
 C:\Users\Nadia\Desktop\Exercise\2-SeleniumIDE\SeleniumIDE\obj\Debug\net6.0\SeleniumIde.csproj.CoreCompileInputs.cache
+C:\Users\Nadia\Desktop\Exercise\2-SeleniumIDE\SeleniumIDE\obj\Debug\net6.0\SeleniumIde.sourcelink.json
 C:\Users\Nadia\Desktop\Exercise\2-SeleniumIDE\SeleniumIDE\obj\Debug\net6.0\SeleniumIde.csproj.CopyComplete
 C:\Users\Nadia\Desktop\Exercise\2-SeleniumIDE\SeleniumIDE\obj\Debug\net6.0\SeleniumIde.dll
 C:\Users\Nadia\Desktop\Exercise\2-SeleniumIDE\SeleniumIDE\obj\Debug\net6.0\refint\SeleniumIde.dll
