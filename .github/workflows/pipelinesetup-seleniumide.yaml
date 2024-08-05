@@ -16,6 +16,9 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v3
         
+      - name: Set execute permissions for Selenium Manager
+        run: chmod +x ./SeleniumIDE/bin/Debug/net6.0/selenium-manager/linux/selenium-manager
+      
       - name: Set up .NET Core
         uses: actions/setup-dotnet@v3
         with:
